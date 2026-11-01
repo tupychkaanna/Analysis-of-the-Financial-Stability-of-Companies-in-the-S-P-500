@@ -1,0 +1,20 @@
+ticker,company_name,sector,industry,end_of_financial_year_month
+AMZN,AMAZON COM INC,Consumer Cyclical,Retail - Apparel & Specialty,12.0
+BBY,BEST BUY CO INC,Consumer Cyclical,Retail - Apparel & Specialty,1.0
+CL,COLGATE PALMOLIVE CO,Consumer Defensive,Consumer Packaged Goods,12.0
+COP,ConocoPhillips,Energy,Oil & Gas - E&P,12.0
+CVX,CHEVRON CORP,Energy,Oil & Gas - Integrated,12.0
+DG,DOLLAR GENERAL CORP,Consumer Defensive,Retail - Defensive,1.0
+DLTR,Dollar Tree,Consumer Defensive,Retail - Defensive,1.0
+HD,HOME DEPOT INC,Consumer Cyclical,Retail - Apparel & Specialty,1.0
+INTC,INTEL CORP,Technology,Semiconductors,12.0
+KO,COCA COLA CO,Consumer Defensive,Beverages - Non-Alcoholic,12.0
+KR,KROGER CO,Consumer Defensive,Retail - Defensive,1.0
+LOW,LOWES COMPANIES INC,Consumer Cyclical,Retail - Apparel & Specialty,1.0
+MDLZ,Mondelez International,Consumer Defensive,Consumer Packaged Goods,12.0
+PEP,PEPSICO INC,Consumer Defensive,Beverages - Non-Alcoholic,12.0
+PSX,Phillips 66,Energy,Oil & Gas - Refining & Marketing,12.0
+SLB,SCHLUMBERGER LIMITED/NV,Energy,Oil & Gas - Services,12.0
+TGT,TARGET CORP,Consumer Defensive,Retail - Defensive,1.0
+WMT,Walmart Inc,Consumer Defensive,Retail - Defensive,1.0
+XOM,EXXON MOBIL CORP,Energy,Oil & Gas - Integrated,12.0
