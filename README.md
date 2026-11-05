@@ -38,7 +38,7 @@ The ratios are used in three main approaches:
 | Efficiency | Days Sales Outstanding | Accounts Receivable / (Revenue / 365) |
 | Efficiency | Days Inventory Outstanding | Inventory / (COGS / 365) |
 | Market Value | Price-to-Earnings | Share Price / Earnings Per Share |
-| Market Value | Price-to-Book | Market Capitalization / Book Value of Equity |
+| Market Value | Price-to-Book | Share Price / Book Value Per Share |
 | Market Value | EV / EBITDA | Enterprise Value / EBITDA |
 | Market Value | Dividend Yield | Annual Dividends Per Share / Share Price |
 | ROE decomposition | The 5-factor DuPont Formula | Tax Burden × Interest Burden × EBIT Margin × Asset Turnover × Equity Multiplier |
