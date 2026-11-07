@@ -47,13 +47,13 @@ The ratios are used in three main approaches:
 
 ### Companies analyzed
 
-| Sector | Companies |
-|--------|-----------|
-| Retail | Walmart (WMT), Target (TGT), Kroger (KR), Home Depot (HD), Amazon (AMZN), Lowe's (LOW), Dollar General (DG), Dollar Tree (DLTR), Best Buy (BBY) |
-| Technology | Alphabet (GOOGL), Intel (INTC) |
-| Energy | Exxon Mobil (XOM), Chevron (CVX), ConocoPhillips (COP), Schlumberger (SLB), Phillips 66 (PSX) |
-| Consumer Goods | Coca-Cola (KO), PepsiCo (PEP), Colgate-Palmolive (CL), Mondelez (MDLZ) |
-
-Banks and insurers were excluded because their balance sheets are not comparable with other sectors (current ratio and Altman Z-score do not apply to them).
+| Category | Company Names |
+|---|---|
+| Retail | Walmart Inc., Target Corporation, The Kroger Co., The Home Depot, Inc., Lowe's Companies, Inc., Dollar General Corporation, Dollar Tree, Inc., Best Buy Co., Inc. |
+| Technology | Intel Corporation |
+| E-commerce | Amazon.com, Inc. |
+| Energy | Exxon Mobil Corporation, Chevron Corporation, ConocoPhillips, SLB Limited, Phillips 66 |
+| Consumer Staples | The Coca-Cola Company, PepsiCo, Inc., Colgate-Palmolive Company, Mondelez International, Inc. |
+| Financial Services | Aon plc |
 
 ## Project Structure
